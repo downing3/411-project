@@ -1,0 +1,7 @@
+Proposal 1
+
+Our first idea is to create a web application that, based on the current weather conditions around you, will recommend a song to you. This would be version one of our application, and version two would potentially create an entire playlist for you based on these weather conditions. Our two APIs would be the Spotify API and OpenWeather API. Our OAuth would be the user signing into their spotify account, and our database (likely MongoDB) would store the information inputted by the user when creating a profile. Users would be able to save songs to their spotify if they end up liking them.
+
+Proposal 2
+
+Our second idea revolves around the Bored API, which essentially gives users activity ideas to do when bored. Our web application would allow users to specify their desires for the activity (free etc.) and the API would output an idea. This would be paired with other APIs, for example if the Bored API recommended that you listen to music, it would show you a couple songs to get started with. We can ultimately tie it to any APIs we would like that relate to the activities given, so we can narrow this down later. 
